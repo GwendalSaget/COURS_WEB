@@ -12,4 +12,6 @@ On redemande ceci : Rajoute la partie SEO dans les contraintes, redonne le cahie
 
 Puis ceci : Dans les contraintes rajoute la partie responsive et redonne moi le cahier des charges entier
 
-Ajoutons une charte grphique : Donne moi une charte graphique pour le site web
+Ajoutons une charte graphique : Donne moi une charte graphique pour le site web
+
+pour les exigences techniques je voudrai utiliser, html5, css3, javascript et semantic
