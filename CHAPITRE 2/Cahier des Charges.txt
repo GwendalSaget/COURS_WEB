@@ -7,3 +7,7 @@ Donne moi un cahier des charges prenant en compte les éléments suivants :
 3 - Fonctionnalités : exigences fonctionelles : page d'accueil présentant l'activité, une page portfolio avec les travaux réalisés, une page contact pour contacter l'utilisateur ; exigences techniques : contraintes techniques 
 4 - Cas d'utilisations : User stories : cas d'acceptation : 
 5 - Contraintes : contraintes légales, réglementations techniques, conformité au RGPD
+
+On redemande ceci : Rajoute la partie SEO dans les contraintes, redonne le cahier complet
+
+Puis ceci : Dans les contraintes rajoute la partie responsive et redonne moi le cahier des charges entier
