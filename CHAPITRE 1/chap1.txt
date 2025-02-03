@@ -1,0 +1,3 @@
+- Review de l'usage d'un readme 
+- Usage de versionning avec GitHub
+- Profil GitHub

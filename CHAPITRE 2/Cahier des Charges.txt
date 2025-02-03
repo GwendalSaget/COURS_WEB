@@ -1,0 +1,9 @@
+- Question à l'IA (ChatGPT, DeepSeek) pour réaliser un cahier des charges à partir de ce prompt : 
+
+Donne moi un cahier des charges prenant en compte les éléments suivants : 
+
+1 - Contexte et et objectifs du projet : projet de portfolio, les objectifs : créer un site web vitrine où les travaux seront mis en ligne  
+2 - Public cible : utilisateurs finaux : clients, pme, entreprises ; besoins et attentes : donner une présence aux entreprises sur internet, 
+3 - Fonctionnalités : exigences fonctionelles : page d'accueil présentant l'activité, une page portfolio avec les travaux réalisés, une page contact pour contacter l'utilisateur ; exigences techniques : contraintes techniques 
+4 - Cas d'utilisations : User stories : cas d'acceptation : 
+5 - Contraintes : contraintes légales, réglementations techniques, conformité au RGPD
